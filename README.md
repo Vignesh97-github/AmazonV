@@ -7,28 +7,28 @@ Our user-friendly interface ensures a seamless shopping journey, with secure pay
 Shop smarter, shop better—only on AmazonV!
 
 ## Key-Features
-Vast Product Selection 
+- Vast Product Selection 
     - Browse thousands of products across multiple categories,
     - including electronics, fashion, home essentials, beauty, and more.
 
-User-Friendly Interface 
-    – A clean, intuitive design ensures seamless navigation for a hassle-free shopping experience.
+- User-Friendly Interface 
+    - A clean, intuitive design ensures seamless navigation for a hassle-free shopping experience.
 
-Secure Payment Options 
+- Secure Payment Options 
     - Choose from multiple payment methods,
     - including credit/debit cards, digital wallets, and COD (Cash on Delivery).
 
-Fast & Reliable Delivery 
+- Fast & Reliable Delivery 
     - Get your orders delivered quickly with real-time tracking and estimated delivery times.
 
-Advanced Search & Filters 
+- Advanced Search & Filters 
     - Easily find what you're looking for with powerful search,
     - smart recommendations, and category-based filters.
 
-Personalized Shopping Experience 
+- Personalized Shopping Experience 
     - AI-driven recommendations and wishlists help you discover products tailored to your interests.
 
-Flash Deals & Discounts 
+- Flash Deals & Discounts 
     - Enjoy exclusive deals,
     - limited-time offers,
     - and seasonal discounts to save more on your purchases.
