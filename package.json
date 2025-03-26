@@ -1,0 +1,13 @@
+{
+  "name": "amazonv",
+  "version": "1.0.0",
+  "description": "\"Platform where needs gets priortised\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmazonUser",
+  "license": "ISC"
+}
