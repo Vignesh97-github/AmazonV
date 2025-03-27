@@ -32,3 +32,21 @@ Shop smarter, shop better—only on AmazonV!
     * Enjoy exclusive deals,
     * limited-time offers,
     * and seasonal discounts to save more on your purchases.
+
+## Tech Satck
+
+- Node.js
+- Express.js
+- dotenv
+- mongoose
+- Nodemon
+
+## API Endpoints
+Users
+- /api/v1/user/create
+- /api/v1/user/getall
+- /api/v1/user/get/:id
+- /api/v1/user/delete/:id
+- /api/v1/user/update/:id
+
+## Security Consideration
