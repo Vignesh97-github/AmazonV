@@ -49,4 +49,42 @@ Users
 - /api/v1/user/delete/:id
 - /api/v1/user/update/:id
 
+Product
+
+- /api/v1/product/:id
+- /api/v1/product/search?name:""
+- /api/v1/product/getall
+- /api/v1/product/create
+- /api/v1/product/delete/:id
+- /api/v1/product?category=""&price=
+
+CART
+
+- /api/v1/cart/user
+- /api/v1/cart/additem
+- /api/v1/cart/update/:itemid
+- /api/v1/cart/delete/:itemid
+- /api/v1/cart/clear
+
+ORDER&CHECKOUT
+
+- /api/v1/order/user
+- /api/v1/order/:id
+- /api/v1/order/cancel/:id
+- /api/v1/order/update/:id
+- /api/v1/order/getall
+
+PAYMENTS
+
+- /api/v1/payment
+- /api/v1/payment/:id
+- /api/v1/payment/verify
+- /api/v1/payment/cancel
+
+REVIEWS
+
+- /api/v1/product/:id/addreview
+- /api/v1/product/:id/udatereview/:reviewid
+- /api/v1/product/:id/deletereview/:reviewid
+
 ## Security Consideration

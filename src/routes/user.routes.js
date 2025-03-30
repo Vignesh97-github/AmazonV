@@ -1,21 +1,12 @@
 import express from 'express';
+import { createUser, deleteUser, getAllUser, getUser, updateUser } from '../controllers/user.controllers.js'
 
 const router = express.Router();
 
-router.post('/create',(req,res)=>{
-    //business logic of creating
-})
-router.get('/getall',(req,res)=>{
-    //business logic of getting all users
-})
-router.get('/get/:id',(req,res)=>{
-    //business logic of getting user by id
-})
-router.delete('/delete/:id',(req,res)=>{
-    //business logic of deleting user by id
-})
-router.put('/update/:id',(req,res)=>{
-    //business logic of updating user by id
-})
+router.post('/create',createUser)
+router.get('/getall',getAllUser)
+router.get('/get/:id',getUser)
+router.delete('/delete/:id',deleteUser)
+router.put('/update/:id',updateUser)
 
 export default router;
