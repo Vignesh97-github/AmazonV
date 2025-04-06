@@ -1,3 +1,6 @@
+import mongoose from "mongoose";
+import Payment from '../modules/payment.model.js';
+
 const userpayment = ()=>{
 
 }

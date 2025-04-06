@@ -1,3 +1,7 @@
+import mongoose from "mongoose"
+import Product from "../modules/product.model";
+
+
 const singleproduct = ()=>{
 
 }
